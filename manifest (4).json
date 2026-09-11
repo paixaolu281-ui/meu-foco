@@ -1,0 +1,31 @@
+{
+  "background_color": "#071a12",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Meu foco",
+  "orientation": "natural",
+  "scope": "/meu-foco/",
+  "short_name": "Meu foco",
+  "start_url": "/meu-foco/",
+  "theme_color": "#00c853",
+  "id": "meu-foco",
+  "description": "MEU FOCO — Um dia de cada vez. Organize sua rotina, acompanhe seus objetivos e evolua todos os dias.",
+  "lang": "pt",
+  "categories": [
+    "business"
+  ],
+  "iarc_rating_id": "12",
+  "prefer_related_applications": true,
+  "share_target": {
+    "method": "GET",
+    "params": {
+      "files": [
+        {
+          "name": "",
+          "accept": []
+        }
+      ]
+    },
+    "action": "/meu-foco/"
+  }
+}
